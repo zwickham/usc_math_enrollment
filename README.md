@@ -1,1 +1,3 @@
-# usc_math_enrollment
+This is a project I did in order to learn various Python libraries (Pandas and Scikit-learn in particular). The goal was to predict the enrollment size of mathematics courses in the USC Mathematics department.
+
+I may revist it at a later date after I learn more machine learning and data analysis, but as it stands, the Jupyter Notebook posted contains my journey through the data and how I cleaned it as well as some predictions I made. I provided the data in a CSV file since the schedule of classes website goes down periodically. I included the code on how to obtain, which can be easily editted in the future when more data becomes available.
